@@ -1,5 +1,6 @@
 # Quiz App
 This Quiz App is a web-based application developed using the MERN stack, Tailwind CSS for styling, Redux for state management, and a Trivia API for fetching quiz questions.
+- Vercel Link: https://quiz-app-frontend-tan.vercel.app/
 
 ### Features
 1. User Authentication:
