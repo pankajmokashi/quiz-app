@@ -20,7 +20,6 @@ app.post("/questions", quizController.questions);
 app.post("/save-quiz", quizController.saveQuiz);
 app.get("/user-quizzes/:userid", quizController.getQuizzes);
 
-const port = process.env.PORT || 5000;
-app.listen(port, () => {
-  console.log(`Server running on http://localhost:${port}`);
-});
+app.listen(process.env.PORT, () =>
+  console.log(`Server running on ${process.env.PORT} PORT`)
+);
