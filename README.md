@@ -1,8 +1,6 @@
 # Quiz App
 This Quiz App is a web-based application developed using the MERN stack, Tailwind CSS for styling, Redux for state management, and a Trivia API for fetching quiz questions.
 
-https://github.com/user-attachments/assets/7ecab225-ea34-4c37-b2a1-51042c9de940
-
 ### Features
 1. User Authentication:
 - Sign Up/Login: Users can create an account or log in to access quizzes.
